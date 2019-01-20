@@ -10,7 +10,7 @@ spring:
 #    driverClassName: "com.mysql.jdbc.driver"
 
   datasource:
-      url: "jdbc:mysql://localhost:3306/itemsharingdatabase"
+      url: "jdbc:mysql://localhost:3306/baza"
       username: "root"
       password: "{cipher}23035c630026ce46f3600f9c32b800418bd95ef093ee3d6542516f0e0d83e64a"
       test-while-idle: "true"
