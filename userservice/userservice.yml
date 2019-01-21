@@ -12,7 +12,7 @@ spring:
   datasource:
       url: "jdbc:mysql://localhost:3306/baza"
       username: "root"
-      password: "{cipher}2dc392eab6004fc33f06e4f41c883b0ee05d2d4b5ec341367f8340392ef6461a"
+      password: "{cipher}AQBoFi0LnG0jltsLD3wR1EGPsgCOROJkjb9RTur+NRsOsLyqpi082ACSk8L8A4YyvFAgPmNlmwELt7nn3qZTlEA1VJINRW/J9a15+SaS7hwuMDfKVkK+PkFRUU1ff4Ab8pvjgfYhMf1rVcPDWdP2KeZ3wQkKtyiSSD0ZLBksHt9lMIasfq/AdkuFOpaDz/wZt9PSDqnzqFGBGdOOBbqhLViYIYBGDY9Ztf3RJ/EKxug4LsWkJW2ikk5UBmfB4SQuM/VDrwUgfUVM8V5Bhm9bVI8ZxbRYxXXRmlIqOt2mh2CUVAwXqSgaSTYOVVgh2VMFx1CDLDd0QekB5/52xoy3TKtDs0Ps13lQxpPWdL94Nt7LqoqqS7sR4mNQItbavHa0fA4="
       test-while-idle: "true"
       validationQuery: "SELECT 1"
       driver-class-name: "com.mysql.jdbc.Driver"
